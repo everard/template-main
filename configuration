@@ -1,0 +1,1 @@
+program:main = rose.filesystem rose.random rose.span
