@@ -3,10 +3,10 @@
 // (See accompanying file LICENSE_1_0.txt or copy at
 // https://www.boost.org/LICENSE_1_0.txt)
 //
-module; // Global module fragment.
-#include <everything>
-
 export module rose.random;
+
+// Imports.
+import std.compat;
 
 ////////////////////////////////////////////////////////////////////////////////
 //
